@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lista Personalizada</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_custom">customActivity</string>
+    <string name="title_activity_vista">Vista Previa</string>
+</resources>
